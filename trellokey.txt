@@ -1,0 +1,11 @@
+trello key -- 1a1817f83d1589e7bee91cd6cec2348d
+
+token - a3213c5182304958386f82091e0970d4beb102982bc4fbaeae9af5eff6e0310d
+
+a3213c5182304958386f82091e0970d4beb102982bc4fbaeae9af5eff6e0310d
+
+
+GIt token -- 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 
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+200 201 204 400 401 404 500 502 503 
